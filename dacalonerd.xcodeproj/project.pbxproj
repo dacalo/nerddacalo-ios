@@ -62,7 +62,6 @@
 		A7D8DB5D257D4DFA0077177F /* SupportingFiles */ = {
 			isa = PBXGroup;
 			children = (
-				A7DF7473257C70BB0019C496 /* Info.plist */,
 			);
 			path = SupportingFiles;
 			sourceTree = "<group>";
@@ -119,6 +118,7 @@
 				A7D8DB5D257D4DFA0077177F /* SupportingFiles */,
 				A7D8DB5C257D4B120077177F /* UseCases */,
 				A7DF746E257C70BB0019C496 /* Assets.xcassets */,
+				A7DF7473257C70BB0019C496 /* Info.plist */,
 			);
 			path = dacalonerd;
 			sourceTree = "<group>";
